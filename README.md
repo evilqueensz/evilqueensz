@@ -5,19 +5,18 @@
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
 
-Comecei a programar de forma autodidata e hoje estou estudando desenvolvimento fullstack no bootcamp Santander. 
-Venho da área de recursos humanos e trabalhei com treinamento e desenvolvimento, departamento pessoal e tenho experiência em ensino à distância.
+I started programming in a self-taught way and today I'm studying fullstack development at the Santander bootcamp.
 
 
-🚀 Meu objetivo é ser uma desenvolvedora fullstack com foco em Java e Javascript
+🚀 My goal is to be a fullstack developer with a focus on Java and Javascript
 
-😄 Estou aberto a receber suporte da comunidade! Muita vontade de aprender!
+😄 I am open to receiving support from the community! Great desire to learn!
 
-💙 Sobre mim: Curto tecnologias, filmes, séries, games e livros
+💙 About me: I like technologies, movies, series, games and books
 
-📬 Contato: hamandaoliveira1@hotmail.com ou https://www.linkedin.com/in/hamanda-oliveira/
+📬 Contact: hamandaoliveira1@hotmail.com or https://www.linkedin.com/in/hamanda-oliveira/
 
-## Aprendendo 🚀
+## Learning 🚀
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
