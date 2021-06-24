@@ -1,4 +1,4 @@
-# Fala pessoal! 👋
+# Hello, guys!! 👋
 
 <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
