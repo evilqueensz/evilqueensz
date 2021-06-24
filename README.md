@@ -5,7 +5,9 @@
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
 
-Comecei a programar de forma autodidata e hoje estou estudando desenvolvimento fullstack no bootcamp Santander. Venho da área de recursos humanos e trabalhei com treinamento e desenvolvimento, departamento pessoal e tenho experiência em ensino à distância.
+Comecei a programar de forma autodidata e hoje estou estudando desenvolvimento fullstack no bootcamp Santander. 
+Venho da área de recursos humanos e trabalhei com treinamento e desenvolvimento, departamento pessoal e tenho experiência em ensino à distância.
+
 
 🚀 Meu objetivo é ser uma desenvolvedora fullstack com foco em Java e Javascript
 
