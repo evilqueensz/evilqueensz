@@ -6,8 +6,6 @@
 </table>
 
 Comecei a programar de forma autodidata e hoje estou estudando desenvolvimento fullstack no bootcamp Santander. 
-Venho da área de recursos humanos e trabalhei com treinamento e desenvolvimento, departamento pessoal e tenho experiência em ensino à distância.
-
 
 🚀 Meu objetivo é ser uma desenvolvedora fullstack com foco em Java e Javascript
 
@@ -27,9 +25,3 @@ Venho da área de recursos humanos e trabalhei com treinamento e desenvolvimento
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 <br>
 <br>
-
-<div>
-  <a href="https://github.com/evilqueensz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evilqueensz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilqueensz&layout=compact&langs_count=16&theme=default"/>
-<div>
